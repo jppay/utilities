@@ -1,13 +1,16 @@
 # utilities
 Some programs with utility classes and methods
 
-<b>XMLParseHelp.java</b> -
+<br>The following Java classes and its methods hels in parsing Strings and XML files. It is designed to parse special characters (such as <, >) which are also part of the incoming data in XML. <br>
+<br><b>XMLParseHelp.java</b> -
 <br>Contains two methods: 
-<br>escapeAmpersands(String unescapedMessageText) and 
-<br>parseLessThan(String text, String oldSubString, String newSubString)
+<br><i>escapeAmpersands(String unescapedMessageText) </i> 
+<br><i>parseLessThan(String text, String oldSubString, String newSubString)</i>
 
-<br><br>Also, class <b>StringUtil</b> class which has one method: 
-<br>replace(String text, String oldSubString, String newSubString, boolean ignoreCase)
+<br><br><b>StringUtil.java</b> -
+<br>Contains one method: 
+<br><i>replace(String text, String oldSubString, String newSubString, boolean ignoreCase)</i>
 
-<br>This class and method helps in parsing Strings and XML files and assists in parsing special characters which are also part of the syntax. 
-<br>------------------------------/////\\\\\----------------------------
+
+<br>----------------------------------------------------------
+<br>
