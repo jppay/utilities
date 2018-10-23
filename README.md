@@ -1,8 +1,16 @@
 # utilities
-Some programs with utility classes and methods
 
-<br>The following Java classes and its methods hels in parsing Strings and XML files. It is designed to parse special characters (such as <, >) which are also part of the incoming data in XML. <br>
-<br><b>XMLParseHelp.java</b> -
+Project:
+jppay/utilities
+
+Author: 
+Jimmy Paul (jppay)
+
+Description: 
+This repository contains simple programs with utility classes and methods. It has three Java classes and methods in each of these classes. Each of these classes helps in solving small problems which I have used in production systems. These classes can be easily integrated into your code, as these are standalone classes. Detailed description of these classes follows. 
+
+<br>There are two Java classes with methods in it which hels in parsing Strings and XML files. It is designed to parse special characters (such as <, >) which are also part of the incoming data in XML. <br>
+<br>XMLParseHelp.java -
 <br>Contains two methods: 
 <br><i>escapeAmpersands(String unescapedMessageText) </i> 
 <br><i>parseLessThan(String text, String oldSubString, String newSubString)</i>
