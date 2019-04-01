@@ -16,4 +16,4 @@ The repository contains some Java programs with utility classes and methods. Eac
 **`OpenCsvExample`**: A program which shows how to integrate third-party API. This API helps to generate and read Comma Separated Values (CSV) files. The action and its associated method in the program are -
 - write:  `writeNext(String[])`
 - read:   `readNext(String[]`
-- readAll `List<String[]>` 
+- readAll: `List<String[]>` 
