@@ -17,3 +17,5 @@ The repository contains some Java programs with utility classes and methods. Eac
 - write:  `writeNext(String[])`
 - read:   `readNext(String[]`
 - readAll: `List<String[]>` 
+
+**`LevenshteinAbbrScoring`**: This is my implementation to calculate Levenshtein distance. In Computer Science (and few other fields too), Levenshtein distance is associated with measuring the difference between two sequences. It is named after the Soviet mathematician Vladimir Levenshtein. For more details on, please refer https://en.wikipedia.org/wiki/Levenshtein_distance
